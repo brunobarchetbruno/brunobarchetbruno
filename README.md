@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Adventure Time and Steven Universe
 - 📫 How to reach me: Cartoons, series, Minecraft and food
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really don't like the end of Star v.s. the evil Forces
+- ⚡ Fun fact: I really don't like the end of Star v.s. the evil Forces;
 -->
