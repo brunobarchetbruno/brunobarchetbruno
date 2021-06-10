@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey girl hey 👋
 
-<!--
+
 **brunobarchetbruno/brunobarchetbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Cartoons, series, Minecraft and food
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really don't like the end of Star v.s. the evil Forces;
--->
+
