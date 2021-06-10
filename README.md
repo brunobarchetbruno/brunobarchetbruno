@@ -1,10 +1,10 @@
 ### Hey girl hey 👋
 
-
+<!--
 **brunobarchetbruno/brunobarchetbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently in high school
 - 🌱 I’m currently learning the basics of programming(but I already know a little bit)
 - 👯 I’m looking to collaborate on ...
