@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really don't like the end of Star v.s. the evil Forces;
 
+qualquer coisa uau muitas coisas magia emoção programação!!!!!
+
