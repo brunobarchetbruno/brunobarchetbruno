@@ -10,7 +10,7 @@
 
 	### Social media📱: 
 
-	- *Instagram*: @brunombarc
+	- _Instagram_: @brunombarc
 	- **Facebook**: Bruno Barchet
 	- Twitter: God, I'll definitely not give this information 	
 
