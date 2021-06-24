@@ -11,7 +11,7 @@
 	### Social media📱: 
 
 	- _Instagram_: @brunombarc
-	- **Facebook**: Bruno Barchet
+	- ** Facebook **: Bruno Barchet
 	- Twitter: God, I'll definitely not give this information 	
 
  	### About me in Github💻:
