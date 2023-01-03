@@ -4,7 +4,7 @@
 **brunobarchetbruno/brunobarchetbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-	Hey there! My name is Bruno and I'm 17y. My pronouns are he/him. I'm from Brazil and I’m currently in technical high school, where I study Informatics, tá passada??
+	Hey there! My name is Bruno and I'm 18y. My pronouns are he/him. I'm from Brazil and I’m currently in technical high school, where I study Informatics, tá passada??
 
 ### Social media📱: 
 
